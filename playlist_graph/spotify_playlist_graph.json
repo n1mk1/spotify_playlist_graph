@@ -1,0 +1,1931 @@
+{
+  "nodes": [
+    {
+      "id": "7h0d2h0fUmzbs7zeFigJPn",
+      "label": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
+      "type": "track"
+    },
+    {
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "label": "Travis Scott",
+      "type": "artist"
+    },
+    {
+      "id": "genre_rap",
+      "label": "rap",
+      "type": "genre"
+    },
+    {
+      "id": "7ltDVBr6mKbRvohxheJ9h1",
+      "label": "ROSAL\u00cdA",
+      "type": "artist"
+    },
+    {
+      "id": "genre_latin",
+      "label": "latin",
+      "type": "genre"
+    },
+    {
+      "id": "5f7VJjfbwm532GiveGC0ZK",
+      "label": "Lil Baby",
+      "type": "artist"
+    },
+    {
+      "id": "4Zurs57mu6Iz9JasAPDWiQ",
+      "label": "New Jeans - Jersey Club",
+      "type": "track"
+    },
+    {
+      "id": "4iApnomXD1KyVGCc2eDmlX",
+      "label": "Dxrkaii",
+      "type": "artist"
+    },
+    {
+      "id": "genre_jersey club",
+      "label": "jersey club",
+      "type": "genre"
+    },
+    {
+      "id": "7cRE1zBQ5riXZrsoU8Z8Re",
+      "label": "Jiandro",
+      "type": "artist"
+    },
+    {
+      "id": "4wJ5Qq0jBN4ajy7ouZIV1c",
+      "label": "APT.",
+      "type": "track"
+    },
+    {
+      "id": "3eVa5w3URK5duf6eyVDbu9",
+      "label": "ROS\u00c9",
+      "type": "artist"
+    },
+    {
+      "id": "genre_k-pop",
+      "label": "k-pop",
+      "type": "genre"
+    },
+    {
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "label": "Bruno Mars",
+      "type": "artist"
+    },
+    {
+      "id": "0ks1uNmU6wWQbB7GPEpEgT",
+      "label": "Anita Max Wynn - Jersey Club",
+      "type": "track"
+    },
+    {
+      "id": "5fpOmsbbaKJNE4hqbPzMhT",
+      "label": "Fazobeats",
+      "type": "artist"
+    },
+    {
+      "id": "genre_philly club",
+      "label": "philly club",
+      "type": "genre"
+    },
+    {
+      "id": "genre_baltimore club",
+      "label": "baltimore club",
+      "type": "genre"
+    },
+    {
+      "id": "5Lhe7EG8x72ezO67RZ5M9E",
+      "label": "Higher",
+      "type": "track"
+    },
+    {
+      "id": "2vFMhQ3FgiC046iPEIAxZQ",
+      "label": "Patrick J Avard",
+      "type": "artist"
+    },
+    {
+      "id": "1hN2RemgPvfGIq0SjHQZWe",
+      "label": "Anthony Demetrio Arasi",
+      "type": "artist"
+    },
+    {
+      "id": "1ECx2uZlwaDFih4TDmQcUE",
+      "label": "Joey Casanova",
+      "type": "artist"
+    },
+    {
+      "id": "1qFSPn37zEeCyRiVpkW9dt",
+      "label": "Light It Up (Remix)",
+      "type": "track"
+    },
+    {
+      "id": "738wLrAtLtCtFOLvQBXOXp",
+      "label": "Major Lazer",
+      "type": "artist"
+    },
+    {
+      "id": "genre_moombahton",
+      "label": "moombahton",
+      "type": "genre"
+    },
+    {
+      "id": "4VZY0nxYMSNotbS7WjNVQy",
+      "label": "Nyla",
+      "type": "artist"
+    },
+    {
+      "id": "genre_dancehall",
+      "label": "dancehall",
+      "type": "genre"
+    },
+    {
+      "id": "374sWpAJsbZckf98df2jJJ",
+      "label": "Fuse ODG",
+      "type": "artist"
+    },
+    {
+      "id": "genre_azonto",
+      "label": "azonto",
+      "type": "genre"
+    },
+    {
+      "id": "genre_afrobeats",
+      "label": "afrobeats",
+      "type": "genre"
+    },
+    {
+      "id": "genre_hiplife",
+      "label": "hiplife",
+      "type": "genre"
+    },
+    {
+      "id": "24Yi9hE78yPEbZ4kxyoXAI",
+      "label": "Roses - Imanbek Remix",
+      "type": "track"
+    },
+    {
+      "id": "0H39MdGGX6dbnnQPt6NQkZ",
+      "label": "SAINt JHN",
+      "type": "artist"
+    },
+    {
+      "id": "5rGrDvrLOV2VV8SCFVGWlj",
+      "label": "Imanbek",
+      "type": "artist"
+    },
+    {
+      "id": "genre_slap house",
+      "label": "slap house",
+      "type": "genre"
+    },
+    {
+      "id": "5CPiiKRbI2UKPHKaSKhJg4",
+      "label": "I need",
+      "type": "track"
+    },
+    {
+      "id": "7LVC96BEVGugTAp38AajV6",
+      "label": "Lithe",
+      "type": "artist"
+    },
+    {
+      "id": "genre_dark r&b",
+      "label": "dark r&b",
+      "type": "genre"
+    },
+    {
+      "id": "17AddLdVYbXks6OX8QtnFG",
+      "label": "Judas - Guitar Version",
+      "type": "track"
+    },
+    {
+      "id": "2XqXXH9xPa1zucIOtZ3u3A",
+      "label": "TommyMuzzic",
+      "type": "artist"
+    },
+    {
+      "id": "genre_nightcore",
+      "label": "nightcore",
+      "type": "genre"
+    },
+    {
+      "id": "7woEDtme8YkFiWeyiinIjy",
+      "label": "New Jeans",
+      "type": "track"
+    },
+    {
+      "id": "6HvZYsbFfjnjFrWF950C9d",
+      "label": "NewJeans",
+      "type": "artist"
+    },
+    {
+      "id": "0s6vEUEL2Ij2tXXGLvgmLi",
+      "label": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
+      "type": "track"
+    },
+    {
+      "id": "0rvNMvAdO6Kcd23ms4RmBC",
+      "label": "Chub1na.Ge",
+      "type": "artist"
+    },
+    {
+      "id": "6DPlSbmQ1AOnjNDU33t2NF",
+      "label": "Just Dance",
+      "type": "track"
+    },
+    {
+      "id": "6Bwo8WbpyBecVCrrKcAtuH",
+      "label": "Bread Beatz",
+      "type": "artist"
+    },
+    {
+      "id": "7A3r3evEOAHQHtdumIMG8M",
+      "label": "Newmagick",
+      "type": "artist"
+    },
+    {
+      "id": "2ATeC2MiGBOe7SYOaaEc2T",
+      "label": "Just Dance - Hardstyle Remix",
+      "type": "track"
+    },
+    {
+      "id": "2cLmM1zENdtfJp509rPpjs",
+      "label": "Kratos",
+      "type": "artist"
+    },
+    {
+      "id": "genre_hardstyle",
+      "label": "hardstyle",
+      "type": "genre"
+    },
+    {
+      "id": "2uaMkR476GI5XRCrHEZ32G",
+      "label": "Hardstyle Gym Bro",
+      "type": "artist"
+    },
+    {
+      "id": "7gLKUPLGMzPhw90Ara5ZEc",
+      "label": "I'm Good (Blue) - Ti\u00ebsto Remix",
+      "type": "track"
+    },
+    {
+      "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "label": "David Guetta",
+      "type": "artist"
+    },
+    {
+      "id": "genre_edm",
+      "label": "edm",
+      "type": "genre"
+    },
+    {
+      "id": "genre_dance",
+      "label": "dance",
+      "type": "genre"
+    },
+    {
+      "id": "64M6ah0SkkRsnPGtGiRAbb",
+      "label": "Bebe Rexha",
+      "type": "artist"
+    },
+    {
+      "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "label": "Ti\u00ebsto",
+      "type": "artist"
+    },
+    {
+      "id": "genre_trance",
+      "label": "trance",
+      "type": "genre"
+    },
+    {
+      "id": "genre_big room",
+      "label": "big room",
+      "type": "genre"
+    },
+    {
+      "id": "genre_house",
+      "label": "house",
+      "type": "genre"
+    },
+    {
+      "id": "5nzqZiPOg9jWn5jz8KRwJJ",
+      "label": "sweet rally",
+      "type": "track"
+    },
+    {
+      "id": "3rmIPOsNb2ngQAQEK8Fow8",
+      "label": "ilysam",
+      "type": "artist"
+    },
+    {
+      "id": "genre_rally house",
+      "label": "rally house",
+      "type": "genre"
+    },
+    {
+      "id": "genre_phonk",
+      "label": "phonk",
+      "type": "genre"
+    },
+    {
+      "id": "genre_brazilian phonk",
+      "label": "brazilian phonk",
+      "type": "genre"
+    },
+    {
+      "id": "2RqjTHL40djgpNGG2LS9O0",
+      "label": "Mc Ster",
+      "type": "artist"
+    },
+    {
+      "id": "1qio62x2CsmRMzpCduqPUF",
+      "label": "RAIVA NO BRASIL",
+      "type": "track"
+    },
+    {
+      "id": "1hZn47PkkXSDml6ablUn1t",
+      "label": "Mc Mascara",
+      "type": "artist"
+    },
+    {
+      "id": "3Chj7A59w4vWBa4fdSN27E",
+      "label": "VORTEX",
+      "type": "artist"
+    },
+    {
+      "id": "0xvMlF1iLu3IYRsHb5zJ3b",
+      "label": "Signs",
+      "type": "track"
+    },
+    {
+      "id": "5ZF6l3xKi3m6YK2dDXAsR5",
+      "label": "Love Me Back (Fayahh Beat)",
+      "type": "track"
+    },
+    {
+      "id": "4wP1kxjUsc9IR4Iy2smL7o",
+      "label": "Trinidad Cardona",
+      "type": "artist"
+    },
+    {
+      "id": "352VD5fhV8xzAFcmO7lMwg",
+      "label": "Robinson",
+      "type": "artist"
+    },
+    {
+      "id": "2Vcuvi9H3eOPBaLJTDitOi",
+      "label": "stairs",
+      "type": "track"
+    },
+    {
+      "id": "6T9oTkBolkKzQJ5ltR7Yr8",
+      "label": "ptasinski",
+      "type": "artist"
+    },
+    {
+      "id": "3BTY807ipaaT6QHW1tHTt0",
+      "label": "RJ Pasin",
+      "type": "artist"
+    },
+    {
+      "id": "7K5D2B5cfkAx2OapGsSG9i",
+      "label": "PACIFIC RIM THEME (EPIC VERSION)",
+      "type": "track"
+    },
+    {
+      "id": "5snW7oibFOJpeaBSx7HCX9",
+      "label": "Boris Harizanov",
+      "type": "artist"
+    },
+    {
+      "id": "5txB5jK1twwIOUWtrz8jcT",
+      "label": "pussypodium",
+      "type": "track"
+    },
+    {
+      "id": "0zilOJ2Ze0FLrQ76cZQaoc",
+      "label": "akiaura",
+      "type": "artist"
+    },
+    {
+      "id": "genre_witch house",
+      "label": "witch house",
+      "type": "genre"
+    },
+    {
+      "id": "genre_electroclash",
+      "label": "electroclash",
+      "type": "genre"
+    },
+    {
+      "id": "700c9Qz2z6HZKTumeliKAw",
+      "label": "LONOWN",
+      "type": "artist"
+    },
+    {
+      "id": "1jKXjxMWlq4BhH6f9GtZbu",
+      "label": "TORE UP",
+      "type": "track"
+    },
+    {
+      "id": "4Gso3d4CscCijv0lmajZWs",
+      "label": "Don Toliver",
+      "type": "artist"
+    },
+    {
+      "id": "3VFySvZMSn4z4X4YDDQb0H",
+      "label": "NUNCA MUDA?",
+      "type": "track"
+    },
+    {
+      "id": "5dDNNq04RjKXFOADdHd6VX",
+      "label": "Scythermane",
+      "type": "artist"
+    },
+    {
+      "id": "7lAaAGxYxk2GH8cMbTEwAL",
+      "label": "NXGHT!",
+      "type": "artist"
+    },
+    {
+      "id": "5dGmJaZqtbY4mGQsY8byH4",
+      "label": "Teen Titans",
+      "type": "track"
+    },
+    {
+      "id": "6o6s7MKEOAftVRoF02dUTj",
+      "label": "Barragini",
+      "type": "artist"
+    },
+    {
+      "id": "1Yoxdq3J7CxsaLPAynnZde",
+      "label": "Only Girl - Hardstyle Remix",
+      "type": "track"
+    },
+    {
+      "id": "7wZpbTWCtfLP4j4IRQXwHt",
+      "label": "The Mission",
+      "type": "track"
+    },
+    {
+      "id": "4dUVsmKjce27kiHwx3yzvR",
+      "label": "Dread Pitt",
+      "type": "artist"
+    },
+    {
+      "id": "0daSHuKxoXYl50HIQ9aKzt",
+      "label": "Yung Fusion",
+      "type": "artist"
+    },
+    {
+      "id": "20plAeU0rYgvfpHJprVfHj",
+      "label": "WHERE'D U GO",
+      "type": "track"
+    },
+    {
+      "id": "3RomO7NMGNE6Zbmm7ZUxAW",
+      "label": "Sani Knight",
+      "type": "artist"
+    },
+    {
+      "id": "genre_trap soul",
+      "label": "trap soul",
+      "type": "genre"
+    },
+    {
+      "id": "6MZqPtmhyVsE7AcNxi2IUC",
+      "label": "Code Red",
+      "type": "track"
+    },
+    {
+      "id": "1lAvOODEAbUI5b51WRBbdx",
+      "label": "Darci",
+      "type": "artist"
+    },
+    {
+      "id": "44OuxVAGgMvw1J9jn4lFt3",
+      "label": "The Machine - Sped Up",
+      "type": "track"
+    },
+    {
+      "id": "7LaEPzqOfzvbRCBTpzRkQv",
+      "label": "Reed Wonder",
+      "type": "artist"
+    },
+    {
+      "id": "6OB7PzOSbC30b8E5uGjRBo",
+      "label": "Aurora Olivas",
+      "type": "artist"
+    },
+    {
+      "id": "2F82KnRqMRq0zDi4uBVSlm",
+      "label": "D\u00e9capotable",
+      "type": "track"
+    },
+    {
+      "id": "0CaWnepnGfVPs8uNwOzav6",
+      "label": "Zouhair Bahaoui",
+      "type": "artist"
+    },
+    {
+      "id": "genre_moroccan pop",
+      "label": "moroccan pop",
+      "type": "genre"
+    },
+    {
+      "id": "genre_ra\u00ef",
+      "label": "ra\u00ef",
+      "type": "genre"
+    },
+    {
+      "id": "genre_moroccan chaabi",
+      "label": "moroccan chaabi",
+      "type": "genre"
+    },
+    {
+      "id": "2dU2D16RX11z3PdnJfXvIi",
+      "label": "Favor",
+      "type": "track"
+    },
+    {
+      "id": "36oRt0TKQYjOhl8s83xhYT",
+      "label": "government hooker",
+      "type": "track"
+    },
+    {
+      "id": "1PisAmVIzm12OZi6QBbWjV",
+      "label": "Enbella",
+      "type": "artist"
+    },
+    {
+      "id": "5FdRzFuY4no1YLO8yns3u4",
+      "label": "TOM! C",
+      "type": "artist"
+    },
+    {
+      "id": "3bpZ6wIS4G8uXUG2V66sOP",
+      "label": "Roi 2 c\u0153ur (feat. Indila)",
+      "type": "track"
+    },
+    {
+      "id": "0vN920jukdAbErvjo2OJ2o",
+      "label": "Zaho",
+      "type": "artist"
+    },
+    {
+      "id": "genre_french r&b",
+      "label": "french r&b",
+      "type": "genre"
+    },
+    {
+      "id": "genre_french pop",
+      "label": "french pop",
+      "type": "genre"
+    },
+    {
+      "id": "genre_pop urbaine",
+      "label": "pop urbaine",
+      "type": "genre"
+    },
+    {
+      "id": "genre_vari\u00e9t\u00e9 fran\u00e7aise",
+      "label": "vari\u00e9t\u00e9 fran\u00e7aise",
+      "type": "genre"
+    },
+    {
+      "id": "0FEJqmeLRzsXj8hgcZaAyB",
+      "label": "Indila",
+      "type": "artist"
+    },
+    {
+      "id": "6k5DKQMC96daK6fSvAxdQv",
+      "label": "Satisfaction",
+      "type": "track"
+    },
+    {
+      "id": "4Ws2otunReOa6BbwxxpCt6",
+      "label": "Benny Benassi",
+      "type": "artist"
+    },
+    {
+      "id": "genre_electro house",
+      "label": "electro house",
+      "type": "genre"
+    },
+    {
+      "id": "59NraMJsLaMCVtwXTSia8i",
+      "label": "Prada",
+      "type": "track"
+    },
+    {
+      "id": "5wCmhq5J2hPwL2r0eKurxn",
+      "label": "cass\u00f6",
+      "type": "artist"
+    },
+    {
+      "id": "genre_hypertechno",
+      "label": "hypertechno",
+      "type": "genre"
+    },
+    {
+      "id": "5KKpBU5eC2tJDzf0wmlRp2",
+      "label": "RAYE",
+      "type": "artist"
+    },
+    {
+      "id": "5VadK1havLhK1OpKYsXv9y",
+      "label": "D-Block Europe",
+      "type": "artist"
+    },
+    {
+      "id": "genre_grime",
+      "label": "grime",
+      "type": "genre"
+    },
+    {
+      "id": "genre_uk drill",
+      "label": "uk drill",
+      "type": "genre"
+    },
+    {
+      "id": "6fCFaIQFwQqNvfkc7ZZFAb",
+      "label": "TRANCE SENSACIO",
+      "type": "track"
+    },
+    {
+      "id": "1m8N1IE2yCPD2SCNpshEwe",
+      "label": "YOUTHISENDING",
+      "type": "artist"
+    },
+    {
+      "id": "51vRYl0OqozBFkhBzAPzKI",
+      "label": "Stupid (Can\u2019t run from the urge)",
+      "type": "track"
+    },
+    {
+      "id": "7HfUJxeVTgrvhk0eWHFzV7",
+      "label": "underscores",
+      "type": "artist"
+    },
+    {
+      "id": "genre_hyperpop",
+      "label": "hyperpop",
+      "type": "genre"
+    },
+    {
+      "id": "2X4pey6MG2UfTfrv1I5LUY",
+      "label": "Coolzone (nasty jamz)",
+      "type": "track"
+    },
+    {
+      "id": "5ID0QH8tUea0DfFxMWZ0Il",
+      "label": "GTA Radio",
+      "type": "artist"
+    },
+    {
+      "id": "1WusF1nfwF70ojSCSFhmLW",
+      "label": "MONTAGEM TOMADA",
+      "type": "track"
+    },
+    {
+      "id": "7kk9ucvRJim0NMM89Lml2Y",
+      "label": "MXZI",
+      "type": "artist"
+    },
+    {
+      "id": "6UTH7SuVzJnvFdAyCriDLX",
+      "label": "Diamondz n Roses (Back It Up!)",
+      "type": "track"
+    },
+    {
+      "id": "2OXa1OHxPJrgxTMzcvysxm",
+      "label": "VaporGod",
+      "type": "artist"
+    },
+    {
+      "id": "0ZYOD9MHcg51Z0ZJ4axhb5",
+      "label": "archangel - Slowed",
+      "type": "track"
+    },
+    {
+      "id": "6vvNcm1On2wFwZNXB63a7B",
+      "label": "DJ Anemia",
+      "type": "artist"
+    },
+    {
+      "id": "3pxK1rdoF4Swqd00UH6wCl",
+      "label": "crier",
+      "type": "artist"
+    },
+    {
+      "id": "1Yo7tf6JFEfruQgejOLkFk",
+      "label": "sixnite",
+      "type": "artist"
+    },
+    {
+      "id": "1WuqF8A8eNi7xpeCILHbTv",
+      "label": "Shibuya",
+      "type": "track"
+    },
+    {
+      "id": "0Jw1MekMVKSl2mCl23u3YC",
+      "label": "Deathshadow",
+      "type": "artist"
+    },
+    {
+      "id": "genre_breakcore",
+      "label": "breakcore",
+      "type": "genre"
+    },
+    {
+      "id": "3RpCFxfsccNPDTWd3ALMaB",
+      "label": "I'll Do It",
+      "type": "track"
+    },
+    {
+      "id": "5XLBtYR2VrpkqXdlvNnFHG",
+      "label": "Heidi Montag",
+      "type": "artist"
+    },
+    {
+      "id": "4LkkRLP8pldQer1YRrHwkx",
+      "label": "LOS VOLTAJE",
+      "type": "track"
+    },
+    {
+      "id": "6s4LSwgbzTAfnN6OUfegJB",
+      "label": "Sayfalse",
+      "type": "artist"
+    },
+    {
+      "id": "02wf6SCDwrs2qTX09X0IRE",
+      "label": "Yb Wasg'ood",
+      "type": "artist"
+    },
+    {
+      "id": "09cKncAQn28NqTUORLMwSR",
+      "label": "Ariis",
+      "type": "artist"
+    },
+    {
+      "id": "72KvCe8XNNzxB53aFtVmU5",
+      "label": "QUE PASA",
+      "type": "track"
+    },
+    {
+      "id": "5AEQFkU5i6WoB4OkHb32Eb",
+      "label": "Nxxkz",
+      "type": "artist"
+    },
+    {
+      "id": "7i7ddOIQP0uI3ktGxI0zkM",
+      "label": "Fyex",
+      "type": "artist"
+    },
+    {
+      "id": "6U0dJxYVB41L8WDZ02Nwuk",
+      "label": "Dj Samir",
+      "type": "artist"
+    },
+    {
+      "id": "69KjdTGitkpHvZx56zCnJL",
+      "label": "BURN FOR YOU",
+      "type": "track"
+    },
+    {
+      "id": "1rPf3UFQ9PzH7MafzfHTnG",
+      "label": "TWISTED",
+      "type": "artist"
+    },
+    {
+      "id": "genre_drift phonk",
+      "label": "drift phonk",
+      "type": "genre"
+    },
+    {
+      "id": "6WhInEMZc1FblXRAVMrX17",
+      "label": "Hugeloud",
+      "type": "artist"
+    },
+    {
+      "id": "1WjQzRiboNtflwvPzGaRFN",
+      "label": "I DON'T SEE THE POINT",
+      "type": "track"
+    },
+    {
+      "id": "3mt3lAYESmdXwBpiJzTrSP",
+      "label": "alcinceaone",
+      "type": "artist"
+    },
+    {
+      "id": "3qFU8OirfY1FxhR7QopkY7",
+      "label": "SO TIRED ROCK",
+      "type": "track"
+    },
+    {
+      "id": "1nccv1GNVkBdvsYi2FB5FB",
+      "label": "NUEKI",
+      "type": "artist"
+    },
+    {
+      "id": "23P2mSsBpPkfR9fTrOc1a4",
+      "label": "TOLCHONOV",
+      "type": "artist"
+    },
+    {
+      "id": "6ddr2k0OD45Ksc7L0zdUY3",
+      "label": "Ravens Rock",
+      "type": "artist"
+    },
+    {
+      "id": "20aNN4RLToBfMEbsLXzlrX",
+      "label": "abolish the IRS",
+      "type": "track"
+    },
+    {
+      "id": "46AWeklp0oLQcUqdsZbuxU",
+      "label": "Headlock - 1shot Jersey Club",
+      "type": "track"
+    },
+    {
+      "id": "2AKE0EjBSQEqYHP0BhpE8j",
+      "label": "1shot",
+      "type": "artist"
+    },
+    {
+      "id": "2g9gegKGJSom24BWJcmHSs",
+      "label": "the car",
+      "type": "track"
+    },
+    {
+      "id": "6S1jiKjLSfiW4zcwLOoHUc",
+      "label": "Les Apollo",
+      "type": "artist"
+    },
+    {
+      "id": "60ohVhheQ88j5lxjqvEm98",
+      "label": "EMO\u00c7\u00d5ES MISTAS",
+      "type": "track"
+    },
+    {
+      "id": "6cxOpDHtysJphpLLLveWAJ",
+      "label": "DJ FLORA",
+      "type": "artist"
+    },
+    {
+      "id": "1KoTNs0Ev2KGs7AF5lWlx3",
+      "label": "Mxng0",
+      "type": "artist"
+    },
+    {
+      "id": "1rFMYAZxBoAKSzXI54brMu",
+      "label": "You Don't Know Me",
+      "type": "track"
+    },
+    {
+      "id": "4Q6nIcaBED8qUel8bBx6Cr",
+      "label": "Jax Jones",
+      "type": "artist"
+    },
+    {
+      "id": "559mLg44MrcA7JzYGbpXfL",
+      "label": "Vielleicht Vielleicht",
+      "type": "track"
+    },
+    {
+      "id": "6nJEMDVNcq7fduXgk7EdGG",
+      "label": "MilleniumKid",
+      "type": "artist"
+    },
+    {
+      "id": "genre_german indie",
+      "label": "german indie",
+      "type": "genre"
+    },
+    {
+      "id": "genre_neue deutsche welle",
+      "label": "neue deutsche welle",
+      "type": "genre"
+    },
+    {
+      "id": "6l8dHVPkuEFzpQjhCH4xXT",
+      "label": "JBS",
+      "type": "artist"
+    }
+  ],
+  "edges": [
+    {
+      "source": "7h0d2h0fUmzbs7zeFigJPn",
+      "target": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "relation": "created_by"
+    },
+    {
+      "source": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "target": "genre_rap",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7h0d2h0fUmzbs7zeFigJPn",
+      "target": "7ltDVBr6mKbRvohxheJ9h1",
+      "relation": "created_by"
+    },
+    {
+      "source": "7ltDVBr6mKbRvohxheJ9h1",
+      "target": "genre_latin",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7h0d2h0fUmzbs7zeFigJPn",
+      "target": "5f7VJjfbwm532GiveGC0ZK",
+      "relation": "created_by"
+    },
+    {
+      "source": "4Zurs57mu6Iz9JasAPDWiQ",
+      "target": "4iApnomXD1KyVGCc2eDmlX",
+      "relation": "created_by"
+    },
+    {
+      "source": "4iApnomXD1KyVGCc2eDmlX",
+      "target": "genre_jersey club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "4Zurs57mu6Iz9JasAPDWiQ",
+      "target": "7cRE1zBQ5riXZrsoU8Z8Re",
+      "relation": "created_by"
+    },
+    {
+      "source": "7cRE1zBQ5riXZrsoU8Z8Re",
+      "target": "genre_jersey club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "4wJ5Qq0jBN4ajy7ouZIV1c",
+      "target": "3eVa5w3URK5duf6eyVDbu9",
+      "relation": "created_by"
+    },
+    {
+      "source": "3eVa5w3URK5duf6eyVDbu9",
+      "target": "genre_k-pop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "4wJ5Qq0jBN4ajy7ouZIV1c",
+      "target": "0du5cEVh5yTK9QJze8zA0C",
+      "relation": "created_by"
+    },
+    {
+      "source": "0ks1uNmU6wWQbB7GPEpEgT",
+      "target": "5fpOmsbbaKJNE4hqbPzMhT",
+      "relation": "created_by"
+    },
+    {
+      "source": "5fpOmsbbaKJNE4hqbPzMhT",
+      "target": "genre_jersey club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5fpOmsbbaKJNE4hqbPzMhT",
+      "target": "genre_philly club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5fpOmsbbaKJNE4hqbPzMhT",
+      "target": "genre_baltimore club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5Lhe7EG8x72ezO67RZ5M9E",
+      "target": "2vFMhQ3FgiC046iPEIAxZQ",
+      "relation": "created_by"
+    },
+    {
+      "source": "5Lhe7EG8x72ezO67RZ5M9E",
+      "target": "1hN2RemgPvfGIq0SjHQZWe",
+      "relation": "created_by"
+    },
+    {
+      "source": "5Lhe7EG8x72ezO67RZ5M9E",
+      "target": "1ECx2uZlwaDFih4TDmQcUE",
+      "relation": "created_by"
+    },
+    {
+      "source": "1qFSPn37zEeCyRiVpkW9dt",
+      "target": "738wLrAtLtCtFOLvQBXOXp",
+      "relation": "created_by"
+    },
+    {
+      "source": "738wLrAtLtCtFOLvQBXOXp",
+      "target": "genre_moombahton",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1qFSPn37zEeCyRiVpkW9dt",
+      "target": "4VZY0nxYMSNotbS7WjNVQy",
+      "relation": "created_by"
+    },
+    {
+      "source": "4VZY0nxYMSNotbS7WjNVQy",
+      "target": "genre_dancehall",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1qFSPn37zEeCyRiVpkW9dt",
+      "target": "374sWpAJsbZckf98df2jJJ",
+      "relation": "created_by"
+    },
+    {
+      "source": "374sWpAJsbZckf98df2jJJ",
+      "target": "genre_azonto",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "374sWpAJsbZckf98df2jJJ",
+      "target": "genre_afrobeats",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "374sWpAJsbZckf98df2jJJ",
+      "target": "genre_hiplife",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "24Yi9hE78yPEbZ4kxyoXAI",
+      "target": "0H39MdGGX6dbnnQPt6NQkZ",
+      "relation": "created_by"
+    },
+    {
+      "source": "24Yi9hE78yPEbZ4kxyoXAI",
+      "target": "5rGrDvrLOV2VV8SCFVGWlj",
+      "relation": "created_by"
+    },
+    {
+      "source": "5rGrDvrLOV2VV8SCFVGWlj",
+      "target": "genre_slap house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5CPiiKRbI2UKPHKaSKhJg4",
+      "target": "7LVC96BEVGugTAp38AajV6",
+      "relation": "created_by"
+    },
+    {
+      "source": "7LVC96BEVGugTAp38AajV6",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "17AddLdVYbXks6OX8QtnFG",
+      "target": "2XqXXH9xPa1zucIOtZ3u3A",
+      "relation": "created_by"
+    },
+    {
+      "source": "2XqXXH9xPa1zucIOtZ3u3A",
+      "target": "genre_nightcore",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7woEDtme8YkFiWeyiinIjy",
+      "target": "6HvZYsbFfjnjFrWF950C9d",
+      "relation": "created_by"
+    },
+    {
+      "source": "6HvZYsbFfjnjFrWF950C9d",
+      "target": "genre_k-pop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0s6vEUEL2Ij2tXXGLvgmLi",
+      "target": "0rvNMvAdO6Kcd23ms4RmBC",
+      "relation": "created_by"
+    },
+    {
+      "source": "6DPlSbmQ1AOnjNDU33t2NF",
+      "target": "6Bwo8WbpyBecVCrrKcAtuH",
+      "relation": "created_by"
+    },
+    {
+      "source": "6DPlSbmQ1AOnjNDU33t2NF",
+      "target": "7A3r3evEOAHQHtdumIMG8M",
+      "relation": "created_by"
+    },
+    {
+      "source": "2ATeC2MiGBOe7SYOaaEc2T",
+      "target": "2cLmM1zENdtfJp509rPpjs",
+      "relation": "created_by"
+    },
+    {
+      "source": "2cLmM1zENdtfJp509rPpjs",
+      "target": "genre_hardstyle",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2ATeC2MiGBOe7SYOaaEc2T",
+      "target": "2uaMkR476GI5XRCrHEZ32G",
+      "relation": "created_by"
+    },
+    {
+      "source": "2uaMkR476GI5XRCrHEZ32G",
+      "target": "genre_hardstyle",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7gLKUPLGMzPhw90Ara5ZEc",
+      "target": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "relation": "created_by"
+    },
+    {
+      "source": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "target": "genre_edm",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "target": "genre_dance",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7gLKUPLGMzPhw90Ara5ZEc",
+      "target": "64M6ah0SkkRsnPGtGiRAbb",
+      "relation": "created_by"
+    },
+    {
+      "source": "7gLKUPLGMzPhw90Ara5ZEc",
+      "target": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "relation": "created_by"
+    },
+    {
+      "source": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "target": "genre_edm",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "target": "genre_trance",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "target": "genre_big room",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "target": "genre_house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "target": "genre_dance",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5nzqZiPOg9jWn5jz8KRwJJ",
+      "target": "3rmIPOsNb2ngQAQEK8Fow8",
+      "relation": "created_by"
+    },
+    {
+      "source": "3rmIPOsNb2ngQAQEK8Fow8",
+      "target": "genre_rally house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3rmIPOsNb2ngQAQEK8Fow8",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3rmIPOsNb2ngQAQEK8Fow8",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5nzqZiPOg9jWn5jz8KRwJJ",
+      "target": "2RqjTHL40djgpNGG2LS9O0",
+      "relation": "created_by"
+    },
+    {
+      "source": "2RqjTHL40djgpNGG2LS9O0",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2RqjTHL40djgpNGG2LS9O0",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2RqjTHL40djgpNGG2LS9O0",
+      "target": "genre_rally house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1qio62x2CsmRMzpCduqPUF",
+      "target": "3rmIPOsNb2ngQAQEK8Fow8",
+      "relation": "created_by"
+    },
+    {
+      "source": "1qio62x2CsmRMzpCduqPUF",
+      "target": "1hZn47PkkXSDml6ablUn1t",
+      "relation": "created_by"
+    },
+    {
+      "source": "1hZn47PkkXSDml6ablUn1t",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1hZn47PkkXSDml6ablUn1t",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1qio62x2CsmRMzpCduqPUF",
+      "target": "3Chj7A59w4vWBa4fdSN27E",
+      "relation": "created_by"
+    },
+    {
+      "source": "3Chj7A59w4vWBa4fdSN27E",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3Chj7A59w4vWBa4fdSN27E",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0xvMlF1iLu3IYRsHb5zJ3b",
+      "target": "7LVC96BEVGugTAp38AajV6",
+      "relation": "created_by"
+    },
+    {
+      "source": "5ZF6l3xKi3m6YK2dDXAsR5",
+      "target": "4wP1kxjUsc9IR4Iy2smL7o",
+      "relation": "created_by"
+    },
+    {
+      "source": "5ZF6l3xKi3m6YK2dDXAsR5",
+      "target": "352VD5fhV8xzAFcmO7lMwg",
+      "relation": "created_by"
+    },
+    {
+      "source": "2Vcuvi9H3eOPBaLJTDitOi",
+      "target": "6T9oTkBolkKzQJ5ltR7Yr8",
+      "relation": "created_by"
+    },
+    {
+      "source": "6T9oTkBolkKzQJ5ltR7Yr8",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2Vcuvi9H3eOPBaLJTDitOi",
+      "target": "3BTY807ipaaT6QHW1tHTt0",
+      "relation": "created_by"
+    },
+    {
+      "source": "3BTY807ipaaT6QHW1tHTt0",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7K5D2B5cfkAx2OapGsSG9i",
+      "target": "5snW7oibFOJpeaBSx7HCX9",
+      "relation": "created_by"
+    },
+    {
+      "source": "5txB5jK1twwIOUWtrz8jcT",
+      "target": "0zilOJ2Ze0FLrQ76cZQaoc",
+      "relation": "created_by"
+    },
+    {
+      "source": "0zilOJ2Ze0FLrQ76cZQaoc",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0zilOJ2Ze0FLrQ76cZQaoc",
+      "target": "genre_witch house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0zilOJ2Ze0FLrQ76cZQaoc",
+      "target": "genre_electroclash",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5txB5jK1twwIOUWtrz8jcT",
+      "target": "700c9Qz2z6HZKTumeliKAw",
+      "relation": "created_by"
+    },
+    {
+      "source": "700c9Qz2z6HZKTumeliKAw",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "700c9Qz2z6HZKTumeliKAw",
+      "target": "genre_witch house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "700c9Qz2z6HZKTumeliKAw",
+      "target": "genre_electroclash",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1jKXjxMWlq4BhH6f9GtZbu",
+      "target": "4Gso3d4CscCijv0lmajZWs",
+      "relation": "created_by"
+    },
+    {
+      "source": "3VFySvZMSn4z4X4YDDQb0H",
+      "target": "5dDNNq04RjKXFOADdHd6VX",
+      "relation": "created_by"
+    },
+    {
+      "source": "5dDNNq04RjKXFOADdHd6VX",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5dDNNq04RjKXFOADdHd6VX",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3VFySvZMSn4z4X4YDDQb0H",
+      "target": "7lAaAGxYxk2GH8cMbTEwAL",
+      "relation": "created_by"
+    },
+    {
+      "source": "7lAaAGxYxk2GH8cMbTEwAL",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7lAaAGxYxk2GH8cMbTEwAL",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5dGmJaZqtbY4mGQsY8byH4",
+      "target": "6o6s7MKEOAftVRoF02dUTj",
+      "relation": "created_by"
+    },
+    {
+      "source": "1Yoxdq3J7CxsaLPAynnZde",
+      "target": "2cLmM1zENdtfJp509rPpjs",
+      "relation": "created_by"
+    },
+    {
+      "source": "1Yoxdq3J7CxsaLPAynnZde",
+      "target": "2uaMkR476GI5XRCrHEZ32G",
+      "relation": "created_by"
+    },
+    {
+      "source": "7wZpbTWCtfLP4j4IRQXwHt",
+      "target": "4dUVsmKjce27kiHwx3yzvR",
+      "relation": "created_by"
+    },
+    {
+      "source": "7wZpbTWCtfLP4j4IRQXwHt",
+      "target": "0daSHuKxoXYl50HIQ9aKzt",
+      "relation": "created_by"
+    },
+    {
+      "source": "20plAeU0rYgvfpHJprVfHj",
+      "target": "3RomO7NMGNE6Zbmm7ZUxAW",
+      "relation": "created_by"
+    },
+    {
+      "source": "3RomO7NMGNE6Zbmm7ZUxAW",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3RomO7NMGNE6Zbmm7ZUxAW",
+      "target": "genre_trap soul",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6MZqPtmhyVsE7AcNxi2IUC",
+      "target": "1lAvOODEAbUI5b51WRBbdx",
+      "relation": "created_by"
+    },
+    {
+      "source": "1lAvOODEAbUI5b51WRBbdx",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "44OuxVAGgMvw1J9jn4lFt3",
+      "target": "7LaEPzqOfzvbRCBTpzRkQv",
+      "relation": "created_by"
+    },
+    {
+      "source": "7LaEPzqOfzvbRCBTpzRkQv",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "44OuxVAGgMvw1J9jn4lFt3",
+      "target": "6OB7PzOSbC30b8E5uGjRBo",
+      "relation": "created_by"
+    },
+    {
+      "source": "6OB7PzOSbC30b8E5uGjRBo",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2F82KnRqMRq0zDi4uBVSlm",
+      "target": "0CaWnepnGfVPs8uNwOzav6",
+      "relation": "created_by"
+    },
+    {
+      "source": "0CaWnepnGfVPs8uNwOzav6",
+      "target": "genre_moroccan pop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0CaWnepnGfVPs8uNwOzav6",
+      "target": "genre_ra\u00ef",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0CaWnepnGfVPs8uNwOzav6",
+      "target": "genre_moroccan chaabi",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2dU2D16RX11z3PdnJfXvIi",
+      "target": "0CaWnepnGfVPs8uNwOzav6",
+      "relation": "created_by"
+    },
+    {
+      "source": "36oRt0TKQYjOhl8s83xhYT",
+      "target": "1PisAmVIzm12OZi6QBbWjV",
+      "relation": "created_by"
+    },
+    {
+      "source": "36oRt0TKQYjOhl8s83xhYT",
+      "target": "5FdRzFuY4no1YLO8yns3u4",
+      "relation": "created_by"
+    },
+    {
+      "source": "3bpZ6wIS4G8uXUG2V66sOP",
+      "target": "0vN920jukdAbErvjo2OJ2o",
+      "relation": "created_by"
+    },
+    {
+      "source": "0vN920jukdAbErvjo2OJ2o",
+      "target": "genre_french r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0vN920jukdAbErvjo2OJ2o",
+      "target": "genre_french pop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0vN920jukdAbErvjo2OJ2o",
+      "target": "genre_pop urbaine",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0vN920jukdAbErvjo2OJ2o",
+      "target": "genre_vari\u00e9t\u00e9 fran\u00e7aise",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3bpZ6wIS4G8uXUG2V66sOP",
+      "target": "0FEJqmeLRzsXj8hgcZaAyB",
+      "relation": "created_by"
+    },
+    {
+      "source": "0FEJqmeLRzsXj8hgcZaAyB",
+      "target": "genre_french pop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6k5DKQMC96daK6fSvAxdQv",
+      "target": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "relation": "created_by"
+    },
+    {
+      "source": "6k5DKQMC96daK6fSvAxdQv",
+      "target": "4Ws2otunReOa6BbwxxpCt6",
+      "relation": "created_by"
+    },
+    {
+      "source": "4Ws2otunReOa6BbwxxpCt6",
+      "target": "genre_electro house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "59NraMJsLaMCVtwXTSia8i",
+      "target": "5wCmhq5J2hPwL2r0eKurxn",
+      "relation": "created_by"
+    },
+    {
+      "source": "5wCmhq5J2hPwL2r0eKurxn",
+      "target": "genre_hypertechno",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "59NraMJsLaMCVtwXTSia8i",
+      "target": "5KKpBU5eC2tJDzf0wmlRp2",
+      "relation": "created_by"
+    },
+    {
+      "source": "59NraMJsLaMCVtwXTSia8i",
+      "target": "5VadK1havLhK1OpKYsXv9y",
+      "relation": "created_by"
+    },
+    {
+      "source": "5VadK1havLhK1OpKYsXv9y",
+      "target": "genre_grime",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5VadK1havLhK1OpKYsXv9y",
+      "target": "genre_uk drill",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6fCFaIQFwQqNvfkc7ZZFAb",
+      "target": "1m8N1IE2yCPD2SCNpshEwe",
+      "relation": "created_by"
+    },
+    {
+      "source": "1m8N1IE2yCPD2SCNpshEwe",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1m8N1IE2yCPD2SCNpshEwe",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "51vRYl0OqozBFkhBzAPzKI",
+      "target": "7HfUJxeVTgrvhk0eWHFzV7",
+      "relation": "created_by"
+    },
+    {
+      "source": "7HfUJxeVTgrvhk0eWHFzV7",
+      "target": "genre_hyperpop",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2X4pey6MG2UfTfrv1I5LUY",
+      "target": "5ID0QH8tUea0DfFxMWZ0Il",
+      "relation": "created_by"
+    },
+    {
+      "source": "1WusF1nfwF70ojSCSFhmLW",
+      "target": "7kk9ucvRJim0NMM89Lml2Y",
+      "relation": "created_by"
+    },
+    {
+      "source": "7kk9ucvRJim0NMM89Lml2Y",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7kk9ucvRJim0NMM89Lml2Y",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6UTH7SuVzJnvFdAyCriDLX",
+      "target": "2OXa1OHxPJrgxTMzcvysxm",
+      "relation": "created_by"
+    },
+    {
+      "source": "2OXa1OHxPJrgxTMzcvysxm",
+      "target": "genre_jersey club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0ZYOD9MHcg51Z0ZJ4axhb5",
+      "target": "6vvNcm1On2wFwZNXB63a7B",
+      "relation": "created_by"
+    },
+    {
+      "source": "0ZYOD9MHcg51Z0ZJ4axhb5",
+      "target": "3pxK1rdoF4Swqd00UH6wCl",
+      "relation": "created_by"
+    },
+    {
+      "source": "3pxK1rdoF4Swqd00UH6wCl",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "0ZYOD9MHcg51Z0ZJ4axhb5",
+      "target": "1Yo7tf6JFEfruQgejOLkFk",
+      "relation": "created_by"
+    },
+    {
+      "source": "1WuqF8A8eNi7xpeCILHbTv",
+      "target": "0Jw1MekMVKSl2mCl23u3YC",
+      "relation": "created_by"
+    },
+    {
+      "source": "0Jw1MekMVKSl2mCl23u3YC",
+      "target": "genre_breakcore",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3RpCFxfsccNPDTWd3ALMaB",
+      "target": "5XLBtYR2VrpkqXdlvNnFHG",
+      "relation": "created_by"
+    },
+    {
+      "source": "4LkkRLP8pldQer1YRrHwkx",
+      "target": "6s4LSwgbzTAfnN6OUfegJB",
+      "relation": "created_by"
+    },
+    {
+      "source": "6s4LSwgbzTAfnN6OUfegJB",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6s4LSwgbzTAfnN6OUfegJB",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "4LkkRLP8pldQer1YRrHwkx",
+      "target": "02wf6SCDwrs2qTX09X0IRE",
+      "relation": "created_by"
+    },
+    {
+      "source": "02wf6SCDwrs2qTX09X0IRE",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "02wf6SCDwrs2qTX09X0IRE",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "4LkkRLP8pldQer1YRrHwkx",
+      "target": "09cKncAQn28NqTUORLMwSR",
+      "relation": "created_by"
+    },
+    {
+      "source": "09cKncAQn28NqTUORLMwSR",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "09cKncAQn28NqTUORLMwSR",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "72KvCe8XNNzxB53aFtVmU5",
+      "target": "5AEQFkU5i6WoB4OkHb32Eb",
+      "relation": "created_by"
+    },
+    {
+      "source": "5AEQFkU5i6WoB4OkHb32Eb",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "5AEQFkU5i6WoB4OkHb32Eb",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "72KvCe8XNNzxB53aFtVmU5",
+      "target": "7i7ddOIQP0uI3ktGxI0zkM",
+      "relation": "created_by"
+    },
+    {
+      "source": "7i7ddOIQP0uI3ktGxI0zkM",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7i7ddOIQP0uI3ktGxI0zkM",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "7i7ddOIQP0uI3ktGxI0zkM",
+      "target": "genre_hypertechno",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "72KvCe8XNNzxB53aFtVmU5",
+      "target": "6U0dJxYVB41L8WDZ02Nwuk",
+      "relation": "created_by"
+    },
+    {
+      "source": "6U0dJxYVB41L8WDZ02Nwuk",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6U0dJxYVB41L8WDZ02Nwuk",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "69KjdTGitkpHvZx56zCnJL",
+      "target": "1rPf3UFQ9PzH7MafzfHTnG",
+      "relation": "created_by"
+    },
+    {
+      "source": "1rPf3UFQ9PzH7MafzfHTnG",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1rPf3UFQ9PzH7MafzfHTnG",
+      "target": "genre_drift phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "69KjdTGitkpHvZx56zCnJL",
+      "target": "6WhInEMZc1FblXRAVMrX17",
+      "relation": "created_by"
+    },
+    {
+      "source": "6WhInEMZc1FblXRAVMrX17",
+      "target": "genre_witch house",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6WhInEMZc1FblXRAVMrX17",
+      "target": "genre_electroclash",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1WjQzRiboNtflwvPzGaRFN",
+      "target": "3mt3lAYESmdXwBpiJzTrSP",
+      "relation": "created_by"
+    },
+    {
+      "source": "3mt3lAYESmdXwBpiJzTrSP",
+      "target": "genre_dark r&b",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3qFU8OirfY1FxhR7QopkY7",
+      "target": "1nccv1GNVkBdvsYi2FB5FB",
+      "relation": "created_by"
+    },
+    {
+      "source": "1nccv1GNVkBdvsYi2FB5FB",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1nccv1GNVkBdvsYi2FB5FB",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1nccv1GNVkBdvsYi2FB5FB",
+      "target": "genre_drift phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3qFU8OirfY1FxhR7QopkY7",
+      "target": "23P2mSsBpPkfR9fTrOc1a4",
+      "relation": "created_by"
+    },
+    {
+      "source": "23P2mSsBpPkfR9fTrOc1a4",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "23P2mSsBpPkfR9fTrOc1a4",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "23P2mSsBpPkfR9fTrOc1a4",
+      "target": "genre_drift phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "3qFU8OirfY1FxhR7QopkY7",
+      "target": "6ddr2k0OD45Ksc7L0zdUY3",
+      "relation": "created_by"
+    },
+    {
+      "source": "6ddr2k0OD45Ksc7L0zdUY3",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "20aNN4RLToBfMEbsLXzlrX",
+      "target": "6T9oTkBolkKzQJ5ltR7Yr8",
+      "relation": "created_by"
+    },
+    {
+      "source": "20aNN4RLToBfMEbsLXzlrX",
+      "target": "3BTY807ipaaT6QHW1tHTt0",
+      "relation": "created_by"
+    },
+    {
+      "source": "46AWeklp0oLQcUqdsZbuxU",
+      "target": "2AKE0EjBSQEqYHP0BhpE8j",
+      "relation": "created_by"
+    },
+    {
+      "source": "2AKE0EjBSQEqYHP0BhpE8j",
+      "target": "genre_jersey club",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "2g9gegKGJSom24BWJcmHSs",
+      "target": "6S1jiKjLSfiW4zcwLOoHUc",
+      "relation": "created_by"
+    },
+    {
+      "source": "60ohVhheQ88j5lxjqvEm98",
+      "target": "5dDNNq04RjKXFOADdHd6VX",
+      "relation": "created_by"
+    },
+    {
+      "source": "60ohVhheQ88j5lxjqvEm98",
+      "target": "6cxOpDHtysJphpLLLveWAJ",
+      "relation": "created_by"
+    },
+    {
+      "source": "6cxOpDHtysJphpLLLveWAJ",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6cxOpDHtysJphpLLLveWAJ",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "60ohVhheQ88j5lxjqvEm98",
+      "target": "5AEQFkU5i6WoB4OkHb32Eb",
+      "relation": "created_by"
+    },
+    {
+      "source": "60ohVhheQ88j5lxjqvEm98",
+      "target": "1KoTNs0Ev2KGs7AF5lWlx3",
+      "relation": "created_by"
+    },
+    {
+      "source": "1KoTNs0Ev2KGs7AF5lWlx3",
+      "target": "genre_phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1KoTNs0Ev2KGs7AF5lWlx3",
+      "target": "genre_brazilian phonk",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "1rFMYAZxBoAKSzXI54brMu",
+      "target": "4Q6nIcaBED8qUel8bBx6Cr",
+      "relation": "created_by"
+    },
+    {
+      "source": "1rFMYAZxBoAKSzXI54brMu",
+      "target": "5KKpBU5eC2tJDzf0wmlRp2",
+      "relation": "created_by"
+    },
+    {
+      "source": "559mLg44MrcA7JzYGbpXfL",
+      "target": "6nJEMDVNcq7fduXgk7EdGG",
+      "relation": "created_by"
+    },
+    {
+      "source": "6nJEMDVNcq7fduXgk7EdGG",
+      "target": "genre_german indie",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "6nJEMDVNcq7fduXgk7EdGG",
+      "target": "genre_neue deutsche welle",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "559mLg44MrcA7JzYGbpXfL",
+      "target": "6l8dHVPkuEFzpQjhCH4xXT",
+      "relation": "created_by"
+    },
+    {
+      "source": "6l8dHVPkuEFzpQjhCH4xXT",
+      "target": "genre_german indie",
+      "relation": "belongs_to"
+    }
+  ]
+}
