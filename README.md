@@ -1,4 +1,4 @@
-![Visual](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Visual](Desktop 2025.06.21 - 19.08.47.09.DVR.gif)
 
 # 🎵 Spotify Playlist Graph
 
