@@ -1,4 +1,4 @@
-![Visual](Desktop 2025.06.21 - 19.08.47.09.DVR.gif)
+![Visual](./Desktop%202025.06.21%20-%2019.08.47.09.DVR.gif)
 
 # 🎵 Spotify Playlist Graph
 
