@@ -1,3 +1,5 @@
+![Visual](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 # 🎵 Spotify Playlist Graph
 
 This was a simple weekend project inspired by the graph view in **Obsidian**. The goal was to visualize a Spotify playlist as an interactive floating node graph using Python, `pygame`, and `networkx`.
